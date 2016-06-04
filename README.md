@@ -12,8 +12,8 @@
 
 启动后，首页（参考 Google）如下：
 
-[补充图片1](https://github.com/abel533/SearchEngine/blob/master/images/1.png)
+![补充图片1](https://github.com/abel533/SearchEngine/blob/master/images/1.png)
 
 搜索内容页：
 
-[补充图片2](https://github.com/abel533/SearchEngine/blob/master/images/2.png)
+![补充图片2](https://github.com/abel533/SearchEngine/blob/master/images/2.png)
